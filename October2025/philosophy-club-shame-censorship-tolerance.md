@@ -18,6 +18,7 @@ paginate: true
 
 # Follow Along
 
+![w:500 h:500](qr-code-presentation.png)
 
 ---
 
